@@ -34,3 +34,11 @@ def pattern1(n):
 
 # To generate a pattern of 5 rows
 pattern1(5)
+
+Output:
+
+*
+**
+***
+****
+*****
