@@ -3,10 +3,9 @@
 ##
 #
 
+n = int(input("Enter the value of n: "))
 
-
-
-for i in range(4):
-    for j in range(4-i):
+for i in range(n):
+    for j in range(n-i):
         print("#", end="")
-    print()
+    print(n)
