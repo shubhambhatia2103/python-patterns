@@ -42,6 +42,7 @@ Output:
 ***
 ****
 *****
+```
 ## Authors
 
 - [@shubhambhatia2103](https://www.linkedin.com/in/shubhambhatia2103/)
