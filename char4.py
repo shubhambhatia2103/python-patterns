@@ -1,3 +1,11 @@
+'''
+ABCDE
+ ABCD
+  ABC
+   AB
+    A
+'''
+
 n = 5
 for i in range(n):
     p = 65
