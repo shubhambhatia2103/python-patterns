@@ -1,14 +1,15 @@
 '''
 A
-B B
-C C C
-D D D D
-E E E E E
+A B 
+A B C 
+A B C D
+A B C D E
 '''
+
 n = 5
-k = 69
 for i in range(n):
+    k = 65
     for j in range(i+1):
         print(chr(k), end=" ")
-    k+=1
+        k+=1
     print()
